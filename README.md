@@ -5,5 +5,16 @@
 * Raditya Aydin
 * Adhistianita Safira Husna
 
+## Tech Stack##
+Python 3
+JavaScript
+HTML
+CSS 3
+Flask
+SqlLite
+SqlAlchemy
+Jquery
+Ajax
+
 ## Link Postman ##
 https://documenter.getpostman.com/view/20640011/UyrDDbMc
